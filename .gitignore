@@ -1,0 +1,8 @@
+.vscode/
+.hotels/.vscode/
+images
+non-related
+app.env
+del.ipynb
+.DS_Store
+derby_onboarder.ipynb

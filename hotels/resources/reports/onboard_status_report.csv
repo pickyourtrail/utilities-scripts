@@ -1,0 +1,247 @@
+productId,hotelId,status,currency,productName,country,city,locality,availableRooms,availableRateplans,hexStatus,onboarded,statusInProduct
+3788,3997,Active,AED,"Lapita, Dubai Parks and Resorts, Autograph Collection",United Arab Emirates,Abu Dhabi,,0,0,False,True,ACTIVE
+3890,4099,Active,USD,Rajarata Hotel,Sri Lanka,Anuradhapura,,0,0,False,False,INACTIVE
+3721,3928,Active,USD,INTERCONTINENTAL RESORT,Mauritius,Balaclava,,0,0,False,False,INACTIVE
+3744,3953,InActive,USD,LE JADIS BEACH RESORT & WELLNESS MAURITIUS,Mauritius,Balaclava,,0,0,False,False,INACTIVE
+3695,3902,Delete,USD,LE MERIDIEN ILE MAURICE RESORT,Mauritius,Balaclava,,0,0,False,False,INACTIVE
+3892,4101,Active,USD,The Hideaway Ella,Sri Lanka,Bandarawela,,0,0,False,False,INACTIVE
+3748,3957,Active,THB,Hilton Bangkok Grande Asoke,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3797,4006,InActive,THB,Mercure Bangkok Surawong,Thailand,Bangkok,,0,0,False,False,INACTIVE
+3910,4119,Active,THB,Mercure Bangkok Sukhumvit 11,Thailand,Bangkok,,0,0,False,False,INACTIVE
+3931,4140,Active,THB,Holiday Inn Express Bangkok Siam,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3749,3958,Active,THB,Centara Watergate Pavilion Hotel Bangkok,Thailand,Bangkok,,0,0,False,True,INACTIVE
+3700,3907,Active,THB,Mercure Bangkok Makkasan,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3777,3986,Active,THB,Manhattan Hotel Bangkok,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3838,4047,Active,THB,Grande Centre Point Sukhumvit 55,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3768,3977,Active,THB,Baiyoke Sky Hotel,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3702,3909,Active,THB,Bangkok Palace Hotel,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3745,3954,Active,THB,ibis Bangkok Sukhumvit 4,Thailand,Bangkok,,0,0,False,False,INACTIVE
+3712,3919,Active,THB,Ramada by Wyndham Bangkok Sukhumvit 11,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3758,3967,Active,THB,The Berkeley Hotel Pratunam,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3762,3971,InActive,THB,Ibis Styles Bangkok Silom,Thailand,Bangkok,,0,0,False,True,INACTIVE
+3708,3915,Delete,THB,Aspen Suites Hotel Sukhumvit 2,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3764,3973,Active,THB,Travelodge Sukhumvit 11,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3807,4016,Active,THB,Park Plaza Sukhumvit Bangkok,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3734,3941,Delete,THB,Aloft Bangkok Sukhumvit 11,Thailand,Bangkok,,0,0,False,False,INACTIVE
+3811,4020,InActive,THB,The Salil Hotel Riverside,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3837,4046,Active,THB,JC Kevin Sathorn Bangkok Hotel,Thailand,Bangkok,,0,0,False,False,INACTIVE
+3809,4018,Active,THB,Rembrandt Hotel & Suites Bangkok,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3839,4048,InActive,THB,Oakwood Hotel & Residence Bangkok,Thailand,Bangkok,,0,0,False,False,INACTIVE
+3723,3930,Active,THB,Ambassador Hotel Bangkok,Thailand,Bangkok,,0,0,False,True,INACTIVE
+3897,4106,Active,THB,Novotel Bangkok Sukhumvit 4 ,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3760,3969,InActive,THB,Vince Hotel Pratunam,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3750,3959,Active,THB,Movenpick Hotel Sukhumvit 15 Bangkok,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3766,3975,Active,THB,Amari Bangkok,Thailand,Bangkok,,0,0,False,True,ACTIVE
+3731,3938,Active,USD,OUTRIGGER MAURITIUS BEACH RESORT,Mauritius,Bel Ombre,,0,0,False,False,INACTIVE
+3716,3923,Active,USD,LONG BEACH RESORT,Mauritius,Belle Mare,,0,0,False,False,INACTIVE
+3769,3978,InActive,USD,THE RESIDENCE MAURITIUS,Mauritius,Belle Mare,,0,0,False,False,INACTIVE
+3715,3922,Active,USD,AMBRE RESORT,Mauritius,Belle Mare,,0,0,False,False,INACTIVE
+3877,4086,Active,USD,Blue Beach,Sri Lanka,Bentota,,0,0,False,False,INACTIVE
+3901,4110,Active,USD,Temple Tree Resort & Spa,Sri Lanka,Bentota,,0,0,False,False,INACTIVE
+3878,4087,Active,USD,The Palms,Sri Lanka,Bentota,,0,0,False,False,INACTIVE
+3879,4088,Active,USD,Cinnamon Bey Beruwala,Sri Lanka,Bentota,,0,0,False,False,INACTIVE
+3880,4089,Active,USD,Citrus Waskaduwa,Sri Lanka,Bentota,,0,0,False,False,INACTIVE
+3876,4085,Active,USD,Rockside Beach Resort,Sri Lanka,Bentota,,0,0,False,True,INACTIVE
+3900,4109,Active,USD,Earl's Reef Hotel,Sri Lanka,Beruwala,,0,0,False,False,INACTIVE
+3911,4120,Delete,AED,La Quinta By Wyndham,United Arab Emirates,Bur Dubai,,0,0,False,False,INACTIVE
+3692,3896,Active,IDR,The Bali Dream Villa Resort Echo Beach Canggu ,Indonesia,Canggu,,0,0,False,True,ACTIVE
+3903,4112,Active,USD,Mirage Colombo Hotel,Sri Lanka,Colombo,,0,0,False,False,INACTIVE
+3867,4076,Active,USD,The Ocean Colombo,Sri Lanka,Colombo,,0,0,False,False,INACTIVE
+3871,4080,Active,USD,Cinnamon Lakeside Colombo,Sri Lanka,Colombo,,0,0,False,False,INACTIVE
+3870,4079,Active,USD,NH Collection Colombo,Sri Lanka,Colombo,,0,0,False,False,INACTIVE
+3869,4078,Active,USD,Pegasus Reef Hotel,Sri Lanka,Colombo,,0,0,False,False,INACTIVE
+3868,4077,Active,USD,Fairway Colombo,Sri Lanka,Colombo,,0,0,False,False,INACTIVE
+3866,4075,Active,USD,Best Western Elyon Colombo,Sri Lanka,Colombo,,0,0,False,False,INACTIVE
+3875,4084,Active,USD,Fresco Water Villa,Sri Lanka,Dambulla,,0,0,False,False,INACTIVE
+3902,4111,Active,USD,Hotel Wewa Addara,Sri Lanka,Dambulla,,0,0,False,False,INACTIVE
+3873,4082,Active,USD,Elephas Resort & Spa,Sri Lanka,Dambulla,,0,0,False,False,INACTIVE
+3874,4083,Active,USD,Jetwing Lake,Sri Lanka,Dambulla,,0,0,False,False,INACTIVE
+3872,4081,Active,USD,Pelwehera Village Resort,Sri Lanka,Dambulla,,0,0,False,False,INACTIVE
+3904,4113,Active,USD,Berjaya Hotel Colombo,Sri Lanka,Dehiwala-Mount Lavinia,,0,0,False,False,INACTIVE
+3783,3992,Active,AED,"Aloft Al Mina, Dubai, a Marriott Hotel",United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3784,3993,Active,AED,"Aloft Dubai Airport, a Marriott Hotel",United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3791,4000,Active,AED,Gevora Hotel,United Arab Emirates,Dubai,,0,0,False,True,INACTIVE
+3793,4002,Active,AED,Dubai Grand Hotel by Fortune,United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3789,3998,Active,AED,Movenpick Hotel & Apartments Bur Dubai,United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3779,3988,Active,AED,Grand Excelsior Hotel Bur Dubai,United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3795,4004,Active,AED,Gulf Inn Al Nasr,United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3790,3999,InActive,AED,"Radisson Blu Hotel, Dubai Deira Creek",United Arab Emirates,Dubai,,0,0,False,False,INACTIVE
+3792,4001,Active,AED,Asiana Hotel Dubai,United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3781,3990,Active,AED,Holiday International,United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3787,3996,InActive,AED,"Atlantis, The Palm",United Arab Emirates,Dubai,,0,0,False,False,INACTIVE
+3747,3956,Active,AED,Howard Johnson by Wyndham Bur Dubai,United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3786,3995,Active,AED,The Leela Hotel Deira,United Arab Emirates,Dubai,,0,0,False,True,INACTIVE
+3778,3987,Active,AED,La Quinta by Wyndham Dubai Jumeirah,United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3785,3994,Active,AED,Ramada Plaza by Wyndham Dubai Deira,United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3782,3991,Active,AED,Jacob's Garden Hotel,United Arab Emirates,Dubai,,0,0,False,True,ACTIVE
+3780,3989,InActive,AED,Grand Excelsior Hotel Deira,United Arab Emirates,Dubai,,0,0,False,False,INACTIVE
+3891,4100,Active,USD,Ella Mount Heaven Hotel,Sri Lanka,Ella,,0,0,False,False,INACTIVE
+3894,4103,Active,USD,98 Acres Resort & Spa,Sri Lanka,Ella,,0,0,False,False,INACTIVE
+3893,4102,Active,USD,EKHO Ella,Sri Lanka,Ella,,0,0,False,False,INACTIVE
+3767,3976,InActive,USD,PEARLE BEACH RESORT & SPA,Mauritius,Flic en Flac,,0,0,False,False,INACTIVE
+3696,3903,Active,USD,ANELIA RESORT,Mauritius,Flic en Flac,,0,0,False,False,INACTIVE
+3699,3906,Active,USD,MANISA HOTEL,Mauritius,Flic en Flac,,0,0,False,True,ACTIVE
+3735,3942,Active,USD,SOFITEL IMPERIAL MAURITIUS RESORT & SPA,Mauritius,Flic en Flac,,0,0,False,False,INACTIVE
+3698,3905,Active,USD,RADISSON BLU AZURI RESORT & SPA,Mauritius,Forbach,,0,0,False,False,INACTIVE
+3856,4065,Active,USD,Radisson Blu Resort Galle,Sri Lanka,Galle,,0,0,False,False,INACTIVE
+3859,4068,Active,USD,The Long Beach Resort,Sri Lanka,Galle,,0,0,False,False,INACTIVE
+3855,4064,Active,USD,Le Grand Galle by Asia Leisure,Sri Lanka,Galle,,0,0,False,False,INACTIVE
+3857,4066,Active,USD,South Lake Resort Koggala,Sri Lanka,Galle,,0,0,False,False,INACTIVE
+3858,4067,Active,USD,Joe's Resort Unawatuna,Sri Lanka,Galle,,0,0,False,False,INACTIVE
+3854,4063,Active,USD,Tamarind Hill by Asia Leisure,Sri Lanka,Galle,,0,0,False,False,INACTIVE
+3921,4130,Active,IDR,Jambuluwuk Oceano Resort Gili Trawangan,Indonesia,Gili Trawangan,,0,0,False,False,INACTIVE
+3737,3946,Active,USD,MAURICIA BEACHCOMBER RESORT & SPA,Mauritius,Grand Baie,,0,0,False,False,INACTIVE
+3739,3948,Active,USD,TARISA RESORT,Mauritius,Grand Baie,,0,0,False,False,INACTIVE
+3736,3944,InActive,USD,CANNONIER BEACHCOMBER GOLF RESORT & SPA,Mauritius,Grand Baie,,0,0,False,False,INACTIVE
+3738,3947,InActive,USD,TROU AUX BICHES BEACHCOMBER RESORT,Mauritius,Grand Baie,,0,0,False,False,INACTIVE
+3697,3904,Active,USD,LAGUNA BEACH HOTEL,Mauritius,Grand River South East,,0,0,False,False,INACTIVE
+3730,3937,Active,USD,Paradise Suites hotel,Vietnam,Halong Bay,,0,0,False,True,ACTIVE
+3718,3925,Active,USD,Paradise Grand Cruise,Vietnam,Halong Bay,,0,0,False,True,ACTIVE
+3720,3927,Active,USD,Paradise Peak,Vietnam,Halong Bay,,0,0,False,True,ACTIVE
+3719,3926,Active,USD,Paradise Sails,Vietnam,Halong Bay,,0,0,False,True,ACTIVE
+3717,3924,Active,USD,Paradise Elegance Cruise,Vietnam,Halong Bay,,0,0,False,True,ACTIVE
+3849,4058,Active,USD,Rivendell Hotel,Sri Lanka,Kandy,,0,0,False,True,ACTIVE
+3905,4114,Active,USD,Tree of Life Nature Resort,Sri Lanka,Kandy,,0,0,False,True,INACTIVE
+3850,4059,Active,USD,Oak Ray Serene Garden Hotel,Sri Lanka,Kandy,,0,0,False,True,ACTIVE
+3906,4115,Active,USD,Earl's Regent Kandy,Sri Lanka,Kandy,,0,0,False,False,INACTIVE
+3852,4061,Active,USD,Hotel Royal Classic,Sri Lanka,Kandy,,0,0,False,True,ACTIVE
+3851,4060,Active,USD,The Golden Crown Hotel,Sri Lanka,Kandy,,0,0,False,False,INACTIVE
+3853,4062,Active,USD,Mahaweli Reach Hotel,Sri Lanka,Kandy,,0,0,False,False,INACTIVE
+3799,4008,Active,THB,Centara Anda Dhevi Resort & Spa Krabi,Thailand,Krabi,,0,0,False,True,ACTIVE
+3801,4010,Active,THB,Aonang Paradise Resort Krabi ,Thailand,Krabi,,0,0,False,False,INACTIVE
+3772,3981,Active,THB,Sugar Marina Resort - Cliffhanger - SHA Extra Plus,Thailand,Krabi,,0,0,False,True,ACTIVE
+3776,3985,Active,THB,Marina Express - Fisherman - Aonang,Thailand,Krabi,,0,0,False,True,ACTIVE
+3824,4033,Active,THB,Centara Grand Beach Resort & Villas Krabi,Thailand,Krabi,,0,0,False,True,ACTIVE
+3898,4107,Active,THB,AVA Sea Resort Krabi,Thailand,Krabi,,0,0,False,True,ACTIVE
+3803,4012,InActive,THB,Amari Vogue Krabi,Thailand,Krabi,,0,0,False,True,ACTIVE
+3819,4028,Active,THB,Dusit Thani Krabi Beach Resort,Thailand,Krabi,,0,0,False,True,INACTIVE
+3704,3911,Active,THB,Avani Ao Nang Cliff Krabi Resort,Thailand,Krabi,,0,0,False,True,ACTIVE
+3753,3962,Active,THB,ibis Styles Krabi Ao Nang,Thailand,Krabi,,0,0,False,True,ACTIVE
+3701,3908,Active,THB,Deevana Plaza Krabi Aonang,Thailand,Krabi,,0,0,False,False,INACTIVE
+3796,4005,Active,THB,Holiday Style Ao Nang Beach Resort,Thailand,Krabi,,0,0,False,False,INACTIVE
+3709,3916,Active,THB,Holiday Inn Resort Krabi Ao Nang Beach,Thailand,Krabi,,0,0,False,True,INACTIVE
+3828,4037,Active,IDR,Ini Vie Villa Legian by Ini Vie Hospitality,Indonesia,Kuta,,0,0,False,True,ACTIVE
+3711,3918,Active,IDR,RAMA BEACH RESORT AND VILLAS,Indonesia,Kuta,,0,0,False,True,ACTIVE
+3915,4124,Active,IDR,Golden Tulip Jineng Resort Bali,Indonesia,Kuta,,0,0,False,True,ACTIVE
+3815,4024,Active,IDR,Swiss-Belhotel Tuban,Indonesia,Kuta,,0,0,False,True,ACTIVE
+3706,3913,Active,IDR,Harper Kuta by Aston ,Indonesia,Kuta,,0,0,False,True,ACTIVE
+3914,4123,Active,IDR,Kuta Seaview Boutique Resort,Indonesia,Kuta,,0,0,False,False,INACTIVE
+3822,4031,Active,IDR,Kuta Paradiso Hotel,Indonesia,Kuta,,0,0,False,True,ACTIVE
+3883,4092,Active,IDR,Ramayana Suites & Resort,Indonesia,Kuta,,0,0,False,False,INACTIVE
+3817,4026,Active,IDR,Cross Vibe Paasha Atelier Bali Kuta,Indonesia,Kuta,,0,0,False,True,ACTIVE
+3881,4090,Active,IDR,MAMAKA by Ovolo Hotels,Indonesia,Kuta,,0,0,False,True,ACTIVE
+3816,4025,Active,IDR,Swiss-Belhotel Rainforest,Indonesia,Kuta,,0,0,False,True,INACTIVE
+3882,4091,Active,IDR,Away Bali Legian Camakila Resort,Indonesia,Kuta,,0,0,False,True,INACTIVE
+3379,3581,Active,USD,AA Bangalore hotel 22,Malaysia,Langkawi,,0,0,False,False,INACTIVE
+3798,4007,InActive,USD,ANANTARA IKO MAURITIUS RESORT & SPA,Mauritius,Le Chaland,,0,0,False,False,INACTIVE
+3722,3929,Active,USD,OCEAN'S CREEK RESORT,Mauritius,Le Goulet,,0,0,False,False,INACTIVE
+3908,4117,Active,USD,Regenta Arie Lagoon Negombo,Sri Lanka,Negombo,,0,0,False,False,INACTIVE
+3845,4054,Active,IDR,"Tanadewa Villas & Spa, Nusa Dua",Indonesia,Nusa Dua,,0,0,False,True,ACTIVE
+3917,4126,Active,USD,"The Bale, Nusa Dua",Indonesia,Nusa Dua,,0,0,False,True,ACTIVE
+3844,4053,Active,IDR,Ayodya Resort Bali,Indonesia,Nusa Dua,,0,0,False,False,INACTIVE
+3847,4056,Active,IDR,Grand Mirage Resort & Thalasso Bali,Indonesia,Nusa Dua,,0,0,False,False,INACTIVE
+3912,4121,Active,IDR,MAUA Nusa Penida Bali,Indonesia,Nusa Penida,,0,0,False,True,ACTIVE
+3848,4057,Active,IDR,Semabu Hills Hotel Nusa Penida - Bali,Indonesia,Nusa Penida,,0,0,False,False,INACTIVE
+3865,4074,Active,USD,Araliya Green City,Sri Lanka,Nuwara Eliya,,0,0,False,False,INACTIVE
+3862,4071,Active,USD,Mirage Kings Cottage,Sri Lanka,Nuwara Eliya,,0,0,False,False,INACTIVE
+3864,4073,Active,USD,Araliya Green Hills Hotel,Sri Lanka,Nuwara Eliya,,0,0,False,False,INACTIVE
+3861,4070,Active,USD,ASHFORD HOTEL,Sri Lanka,Nuwara Eliya,,0,0,False,False,INACTIVE
+3860,4069,Active,USD,Oak Ray Summer Hill Breeze,Sri Lanka,Nuwara Eliya,,0,0,False,True,ACTIVE
+3863,4072,Active,USD,The Lynden Grove Hotel,Sri Lanka,Nuwara Eliya,,0,0,False,True,ACTIVE
+3907,4116,Active,USD,Heritance Tea Factory,Sri Lanka,Nuwara Eliya,,0,0,False,False,INACTIVE
+3804,4013,Active,THB,Centara Pattaya Hotel,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3812,4021,Active,THB,Ibis Pattaya ,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3726,3933,Active,THB,Amari Pattaya,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3842,4051,Active,THB,Centara Nova Hotel Pattaya,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3725,3932,Active,THB,OZO North Pattaya,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3840,4049,Active,THB,Centara Life Avenue Hotel Pattaya,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3759,3968,Active,THB,The Bayview Pattaya,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3713,3920,Active,THB,Hard Rock Hotel Pattaya,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3755,3964,InActive,THB,Heeton Concept Hotel Pattaya by Compass Hospitality,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3808,4017,Active,THB,Siam Bayshore Pattaya,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3756,3965,Active,THB,Nova Platinum,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3841,4050,InActive,THB,Centara Azure Hotel Pattaya,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3813,4022,Active,THB,Travelodge Pattaya,Thailand,Pattaya,,0,0,False,False,INACTIVE
+3707,3914,Active,THB,GLOW Pattaya,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3802,4011,Active,THB,Golden Beach Hotel Pattaya,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3746,3955,Active,THB,Mercure Pattaya Ocean Resort,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3843,4052,Active,THB,Journeyhub Pattaya Central,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3703,3910,Delete,THB,Pattaya Discovery Beach Hotel,Thailand,Pattaya,,0,0,False,True,ACTIVE
+3770,3979,Active,THB,Sugar Marina Resort - FASHION - Kata Beach,Thailand,Phuket,,0,0,False,True,INACTIVE
+3771,3980,Active,THB,Sugar Marina Resort - NAUTICAL - Kata Beach - SHA Extra Plus,Thailand,Phuket,,0,0,False,True,INACTIVE
+3846,4055,Active,THB,Ramada by Wyndham Phuket Deevana Patong,Thailand,Phuket,,0,0,False,True,ACTIVE
+3765,3974,InActive,THB,The Nature Phuket,Thailand,Phuket,,0,0,False,True,ACTIVE
+3742,3951,Active,THB,The Kee Resort & Spa,Thailand,Phuket,,0,0,False,True,ACTIVE
+3752,3961,InActive,THB,Seaview Patong Hotel,Thailand,Phuket,,0,0,False,True,ACTIVE
+3763,3972,Active,THB,SLEEP WITH ME Hotel design hotel @ patong,Thailand,Phuket,,0,0,False,True,ACTIVE
+3757,3966,InActive,THB,Wyndham Grand Nai Harn Beach Phuket,Thailand,Phuket,,0,0,False,True,ACTIVE
+3919,4128,Active,THB,Peach Blossom Resort,Thailand,Phuket,,0,0,False,True,ACTIVE
+3733,3940,Active,THB,Best Western Patong Beach Hotel,Thailand,Phuket,,0,0,False,True,ACTIVE
+3826,4035,Active,THB,Dusit Thani Laguna Phuket,Thailand,Phuket,,0,0,False,True,ACTIVE
+3899,4108,Active,THB,"Dinso Resort & Villas Phuket Vignette Collection, an IHG Hotel",Thailand,Phuket,,0,0,False,False,INACTIVE
+3732,3939,Active,THB,Diamond Cliff Resort & Spa,Thailand,Phuket,,0,0,False,True,ACTIVE
+3805,4014,Active,THB,Dewa Phuket Resort & Villas,Thailand,Phuket,,0,0,False,False,INACTIVE
+3800,4009,Active,THB,Deevana Plaza Phuket Patong,Thailand,Phuket,,0,0,False,True,ACTIVE
+3920,4129,Active,THB,Andaman Cannacia Resort & Spa,Thailand,Phuket,,0,0,False,True,ACTIVE
+3728,3935,Active,THB,Grand Mercure Phuket Patong Resort & Villas ,Thailand,Phuket,,0,0,False,True,ACTIVE
+3916,4125,Active,THB,Peach Hill Resort,Thailand,Phuket,,0,0,False,True,ACTIVE
+3896,4105,Active,THB,Andamantra Resort and Villa Phuket,Thailand,Phuket,,0,0,False,True,ACTIVE
+3825,4034,Active,THB,Angsana Laguna Phuket,Thailand,Phuket,,0,0,False,True,ACTIVE
+3761,3970,Active,THB,Ashlee Hub Hotel,Thailand,Phuket,,0,0,False,True,INACTIVE
+3827,4036,Active,THB,Centara Grand Beach Resort Phuket,Thailand,Phuket,,0,0,False,True,ACTIVE
+3773,3982,Active,THB,Cassia Phuket,Thailand,Phuket,,0,0,False,True,INACTIVE
+3836,4045,Active,THB,Casa Del M Resort,Thailand,Phuket,,0,0,False,True,ACTIVE
+3740,3949,InActive,THB,Burasari Phuket,Thailand,Phuket,,0,0,False,True,ACTIVE
+3930,4139,Active,THB,Andaman Embrace Patong,Thailand,Phuket,,0,0,False,True,ACTIVE
+3810,4019,Active,THB,Andaman Beach Suite ,Thailand,Phuket,,0,0,False,True,ACTIVE
+3806,4015,InActive,THB,Avista Hideaway Phuket Patong - MGallery,Thailand,Phuket,,0,0,False,False,INACTIVE
+3741,3950,Active,THB,Hyatt Regency Phuket Resort,Thailand,Phuket,,0,0,False,True,ACTIVE
+3727,3934,Active,THB,M Social Phuket ,Thailand,Phuket,,0,0,False,True,ACTIVE
+3775,3984,Active,THB,Marina Express-AVIATOR-Phuket Airport,Thailand,Phuket,,0,0,False,True,INACTIVE
+3754,3963,Active,THB,Amata Patong,Thailand,Phuket,,0,0,False,False,INACTIVE
+3909,4118,Active,THB,Journeyhub Phuket Patong,Thailand,Phuket,,0,0,False,False,INACTIVE
+3774,3983,Active,THB,Marina Gallery Resort Kacha Kalim Bay,Thailand,Phuket,,0,0,False,True,INACTIVE
+3751,3960,InActive,THB,Ibis Phuket Patong,Thailand,Phuket,,0,0,False,True,ACTIVE
+3714,3921,Active,USD,RADISSON BLU POSTE LAFAYETTE,Mauritius,Poste Lafayette,,0,0,False,False,INACTIVE
+3829,4038,Active,IDR,Sini Vie Villa by Ini Vie Hospitality,Indonesia,Seminyak,,0,0,False,True,ACTIVE
+3823,4032,Active,IDR,Villa Kayu Raja,Indonesia,Seminyak,,0,0,False,True,INACTIVE
+3832,4041,Active,IDR,Monolocale Resort Seminyak by Ini Vie Hospitality,Indonesia,Seminyak,,0,0,False,True,INACTIVE
+3691,3895,Active,IDR,The Bali Dream Villa Seminyak,Indonesia,Seminyak,,0,0,False,True,ACTIVE
+3833,4042,Active,IDR,Aksari Villa Seminyak by Ini Vie Hospitality,Indonesia,Seminyak,,0,0,False,True,ACTIVE
+3689,3893,Active,IDR,The Bali Dream Suite Villa Seminyak,Indonesia,Seminyak,,0,0,False,True,ACTIVE
+3895,4104,Active,IDR,"FuramaXclusive Ocean Beach, Seminyak, Bali",Indonesia,Seminyak,,0,0,False,False,INACTIVE
+3830,4039,Active,IDR,La Vie Villa Seminyak by Ini Vie Hospitality,Indonesia,Seminyak,,0,0,False,True,ACTIVE
+3913,4122,Active,USD,IZE Seminyak,Indonesia,Seminyak,,0,0,False,True,ACTIVE
+3932,4143,InActive,IDR,Jambuluwuk Oceano Seminyak Hotel,Indonesia,Seminyak,,0,0,False,False,INACTIVE
+3818,4027,Active,IDR,Cross Paasha Seminyak,Indonesia,Seminyak,,0,0,False,True,ACTIVE
+3922,4131,Active,IDR,"Hideout Bali, Sidemen",Indonesia,Sidemen,,0,0,False,False,INACTIVE
+3710,3917,Delete,USD,WESTIN TURTLE BAY RESORT,Mauritius,Solitude,,0,0,False,False,INACTIVE
+3743,3952,InActive,USD,CORAL AZUR BEACH RESORT,Mauritius,Trou aux Biches,,0,0,False,False,INACTIVE
+3724,3931,Active,USD,LE GRAND BLEU HOTEL,Mauritius,Trou aux Biches,,0,0,False,False,INACTIVE
+3918,4127,Active,IDR,"The Sun of Granary Resort and Villas, Ubud",Indonesia,Ubud,,0,0,False,True,ACTIVE
+3925,4134,Active,IDR,"Amarea Resort Ubud by Ini Vie Hospitality
+",Indonesia,Ubud,,0,0,False,False,INACTIVE
+3923,4132,Active,IDR,Aksari Resort Ubud by Ini Vie Hospitality,Indonesia,Ubud,,0,0,False,True,ACTIVE
+3831,4040,Active,IDR,Asvara Villa Ubud by Ini Vie Hospitality,Indonesia,Ubud,,0,0,False,True,ACTIVE
+3821,4030,Active,IDR,Daun Lebar Villas,Indonesia,Ubud,,0,0,False,True,INACTIVE
+3693,3900,Active,USD,Danakha Villa Ubud,Indonesia,Ubud,,0,0,False,True,ACTIVE
+3814,4023,Active,IDR,Tanadewa Resorts & Spa Ubud,Indonesia,Ubud,,0,0,False,True,ACTIVE
+3834,4043,Active,IDR,Dedary Resort Ubud by Ini Vie Hospitality,Indonesia,Ubud,,0,0,False,True,ACTIVE
+3926,4135,Active,IDR,Suara Alam Hotel Ubud by Ini Vie Hospitality,Indonesia,Ubud,,0,0,False,False,INACTIVE
+3835,4044,Active,IDR,Hideaway Village Bali Ubud by Kanaan Hospitality,Indonesia,Ubud,,0,0,False,True,ACTIVE
+3924,4133,Active,IDR,Kaamala Resort Ubud by Ini Vie Hospitality,Indonesia,Ubud,,0,0,False,False,INACTIVE
+3705,3912,Active,IDR,Mesari Hotel,Indonesia,Ubud,,0,0,False,True,ACTIVE
+3820,4029,Active,IDR,Puri Gangga Resort Ubud,Indonesia,Ubud,,0,0,False,True,INACTIVE
+3690,3894,InActive,IDR,Bumi Linggah Villas Bali,Indonesia,Ubud,,0,0,False,True,INACTIVE
+3884,4093,Active,USD,Chaarya Resort & Spa by Chandrika,Sri Lanka,Yala,,0,0,False,False,INACTIVE
+3886,4095,Active,USD,Cinnamon Wild Yala,Sri Lanka,Yala,,0,0,False,False,INACTIVE
+3888,4097,Active,USD,The Rain Tree Hotel,Sri Lanka,Yala,,0,0,False,False,INACTIVE
+3889,4098,Active,USD,Magampura Eco Village Resort,Sri Lanka,Yala,,0,0,False,False,INACTIVE
+3885,4094,Active,USD,Oak Ray Wild Yala,Sri Lanka,Yala,,0,0,False,False,INACTIVE
+3887,4096,Active,USD,Jetwing Yala,Sri Lanka,Yala,,0,0,False,False,INACTIVE
+3794,4003,Delete,AED,Gulf Inn Al Nasr,United Arab Emirates,,,0,0,False,False,INACTIVE
+3929,4138,InActive,USD,HOTEL Royal Kandyan,Sri Lanka,,,0,0,False,False,INACTIVE
+3928,4137,InActive,USD,Hotel Tropical Life Resort & Spa ,Sri Lanka,,,0,0,False,False,INACTIVE
+3927,4136,InActive,USD,Miridiya Lake,Sri Lanka,,,0,0,False,False,INACTIVE
+3729,3936,Delete,,Paradise Suites hotel,Vietnam,,,0,0,False,False,INACTIVE
+3694,3901,InActive,USD,WESTIN TURTLE BAY RESORT,Mauritius,,,0,0,False,False,INACTIVE
